@@ -1,5 +1,6 @@
 # BO-SUM99
-Code availability for [article title]: This repository is intended for reproducing Bayesian Optimization.
+#### Author: Zhen-wu Shao, Zhiyuan Zhang, Chong Liu*
+Code availability for **Bayesian Optimized Crystallization of a Hydroxamate-Functionalized Covalent Organic Framework for Enhanced Uranyl Uptake**: This repository is intended for reproducing Bayesian Optimization.
 
 ## Install dependency packages
 The code can currently runs only on Linux; for Windows, you can install [WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
